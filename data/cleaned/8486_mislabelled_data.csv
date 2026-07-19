@@ -1,0 +1,22 @@
+Country,financial_year,calendar_year,calendar_month,DISCOM,State,city,ev_stations,hd_stations,ev_kwh,hd_kwh,total_mu
+India,2023-24,2023,8,TSNPDCL,TNG,"coimbatore, villupuram, tirunelveli, chennai north, vellore",123.0,0.0,593509.0,0.0,0.594
+India,2023-24,2023,8,SBPDCL,BIHAR,"bhubaneswar, puri, khordha & paradeep",17.0,0.0,3335.0,0.0,0.003
+India,2023-24,2023,4,LPDCL,UT OF LADAKH,,,,,,0.0
+India,2023-24,2023,8,LPDCL,UT OF LADAKH,chandigarh,,7.0,80946.0,670686.0,0.751632
+India,2023-24,2023,8,LPDCL,UT OF LADAKH,"bhopal city, gwalior city, betul, guna, harda, itarsi, narmadapuram, bareli, raisen, narsinghgarh, zeerapur, ashta, vidisha",92.0,1.0,21720.0,181266.0,0.203
+India,2023-24,2023,7,LPDCL,UT OF LADAKH,,,,,,0.0
+India,2023-24,2023,6,LPDCL,UT OF LADAKH,,,,,,0.0
+India,2023-24,2023,3,LPDCL,UT OF LADAKH,,2.0,0.0,272500.0,0.0,0.273
+India,2023-24,2023,5,LPDCL,UT OF LADAKH,,,,,,0.0
+India,2023-24,2023,11,SBPDCL,BIHAR,"bhubaneswar, puri, khordha & paradeep",,0.0,3590.0,0.0,0.0
+India,2023-24,2023,11,TSNPDCL,TNG,"coimbatore, villupuram, tirunelveli, chennai north, vellore",190.0,0.0,1056146.0,0.0,1.056
+India,2023-24,2023,11,LPDCL,UT OF LADAKH,"bhopal city, gwalior city, betul, guna, harda, itarsi, narmadapuram, bareli, raisen, narsinghgarh, zeerapur, ashta, vidisha",97.0,1.0,19912.0,209400.0,0.229
+India,2023-24,2023,11,LPDCL,UT OF LADAKH,chandigarh,,7.0,80946.0,670686.0,0.751632
+India,2023-24,2023,10,LPDCL,UT OF LADAKH,chandigarh,,7.0,80946.0,670686.0,0.751632
+India,2023-24,2023,10,LPDCL,UT OF LADAKH,"bhopal city, gwalior city, betul, guna, harda, itarsi, narmadapuram, bareli, raisen, narsinghgarh, zeerapur, ashta, vidisha",96.0,1.0,24713.0,208212.0,0.233
+India,2023-24,2023,10,SBPDCL,BIHAR,"bhubaneswar, puri, khordha & paradeep",,0.0,3590.0,0.0,0.0
+India,2023-24,2023,10,TSNPDCL,TNG,"coimbatore, villupuram, tirunelveli, chennai north, vellore",139.0,0.0,597914.0,0.0,0.598
+India,2023-24,2023,9,LPDCL,UT OF LADAKH,chandigarh,,7.0,80946.0,670686.0,0.751632
+India,2023-24,2023,9,LPDCL,UT OF LADAKH,"bhopal city, gwalior city, betul, guna, harda, itarsi, narmadapuram, bareli, raisen, narsinghgarh, zeerapur, ashta, vidisha",97.0,1.0,25358.0,218128.0,0.243
+India,2023-24,2023,9,SBPDCL,BIHAR,"bhubaneswar, puri, khordha & paradeep",17.0,0.0,3590.0,0.0,0.004
+India,2023-24,2023,9,TSNPDCL,TNG,"coimbatore, villupuram, tirunelveli, chennai north, vellore",138.0,0.0,690454.0,0.0,0.69

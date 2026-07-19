@@ -1,0 +1,72 @@
+Country,financial_year,calendar_year,calendar_month,DISCOM,State,city
+India,2022-23,2022,8,SBPDCL,BIHAR,patna
+India,2022-23,2022,12,LPDCL,UT OF LADAKH,
+India,2023-24,2023,1,LPDCL,UT OF LADAKH,
+India,2022-23,2022,5,NBPDCL,BIHAR,patna
+India,2023-24,2023,1,DGVCL,GUJ,"surat city, navsari, vapi-town, haldarva, bharuch east, kavadiya colony"
+India,2022-23,2022,4,HESCOM,KAR,
+India,2022-23,2022,4,AVVNL,RAJ,ajmer
+India,2022-23,2022,4,NBPDCL,BIHAR,patna
+India,2022-23,2022,4,JDVVNL,RAJ,pali
+India,2022-23,2022,4,SBPDCL,BIHAR,patna
+India,2022-23,2022,4,TPCODL,ORISSA,bhubaneswar
+India,2022-23,2022,4,LPDCL,UT OF LADAKH,
+India,2023-24,2023,4,MPMKVVCL,MP,"bhopal city, gwalior city, betul, guna, harda, itarsi, narmadapuram, bareli, raisen, narsinghgarh, zeerapur, ashta, vidisha"
+India,2022-23,2022,10,LPDCL,UT OF LADAKH,
+India,2022-23,2022,8,LPDCL,UT OF LADAKH,
+India,2022-23,2022,8,TPCODL,ORISSA,bhubaneswar
+India,2022-23,2022,8,JDVVNL,RAJ,pali
+India,2022-23,2022,8,HESCOM,KAR,
+India,2022-23,2022,8,AVVNL,RAJ,ajmer
+India,2022-23,2022,8,NBPDCL,BIHAR,patna
+India,2023-24,2023,2,LPDCL,UT OF LADAKH,
+India,2023-24,2023,1,TANGEDCO,TN,"coimbatore, villupuram, tirunelveli, chennai north, vellore"
+India,2022-23,2022,12,TPCODL,ORISSA,bhubaneswar
+India,2022-23,2022,12,JDVVNL,RAJ,pali
+India,2022-23,2022,12,DVC,JHARKHAND,"maithon, dhanbad"
+India,2022-23,2022,12,DGVCL,GUJ,"surat city, navsari, vapi-town, haldarva, bharuch east, kavadiya colony"
+India,2022-23,2022,12,TANGEDCO,TN,"coimbatore, villupuram, tirunelveli, chennai north, vellore"
+India,2023-24,2023,2,JDVVNL,RAJ,pali
+India,2023-24,2023,2,DGVCL,GUJ,"surat city, navsari, vapi-town, haldarva, bharuch east, kavadiya colony"
+India,2023-24,2023,2,DVC,JHARKHAND,"maithon, dhanbad"
+India,2023-24,2023,2,TPCODL,ORISSA,bhubaneswar
+India,2023-24,2023,2,TANGEDCO,TN,"coimbatore, villupuram, tirunelveli, chennai north, vellore"
+India,2023-24,2023,1,JDVVNL,RAJ,pali
+India,2022-23,2022,11,AVVNL,RAJ,ajmer
+India,2023-24,2023,1,DVC,JHARKHAND,"maithon, dhanbad"
+India,2023-24,2023,1,TPCODL,ORISSA,bhubaneswar
+India,2022-23,2022,7,AVVNL,RAJ,ajmer
+India,2022-23,2022,7,NBPDCL,BIHAR,patna
+India,2022-23,2022,7,LPDCL,UT OF LADAKH,
+India,2022-23,2022,7,HESCOM,KAR,
+India,2022-23,2022,7,JDVVNL,RAJ,pali
+India,2022-23,2022,7,TPCODL,ORISSA,bhubaneswar
+India,2022-23,2022,7,SBPDCL,BIHAR,patna
+India,2022-23,2022,6,NBPDCL,BIHAR,patna
+India,2022-23,2022,6,TPCODL,ORISSA,bhubaneswar
+India,2022-23,2022,6,JDVVNL,RAJ,pali
+India,2022-23,2022,6,LPDCL,UT OF LADAKH,
+India,2022-23,2022,6,SBPDCL,BIHAR,patna
+India,2022-23,2022,6,HESCOM,KAR,
+India,2022-23,2022,6,AVVNL,RAJ,ajmer
+India,2023-24,2023,6,MPMKVVCL,MP,"bhopal city, gwalior city, betul, guna, harda, itarsi, narmadapuram, bareli, raisen, narsinghgarh, zeerapur, ashta, vidisha"
+India,2023-24,2023,3,TPCODL,ORISSA,bhubaneswar
+India,2023-24,2023,3,TANGEDCO,TN,"coimbatore, villupuram, tirunelveli, chennai north, vellore"
+India,2023-24,2023,3,JDVVNL,RAJ,pali
+India,2023-24,2023,3,DVC,JHARKHAND,"maithon, dhanbad"
+India,2023-24,2023,3,DGVCL,GUJ,"surat city, navsari, vapi-town, haldarva, bharuch east, kavadiya colony"
+India,2022-23,2022,5,JDVVNL,RAJ,pali
+India,2022-23,2022,5,AVVNL,RAJ,ajmer
+India,2022-23,2022,5,LPDCL,UT OF LADAKH,
+India,2022-23,2022,5,TPCODL,ORISSA,bhubaneswar
+India,2022-23,2022,5,HESCOM,KAR,
+India,2022-23,2022,5,SBPDCL,BIHAR,patna
+India,2023-24,2023,5,MPMKVVCL,MP,"bhopal city, gwalior city, betul, guna, harda, itarsi, narmadapuram, bareli, raisen, narsinghgarh, zeerapur, ashta, vidisha"
+India,2022-23,2022,11,LPDCL,UT OF LADAKH,
+India,2022-23,2022,9,JDVVNL,RAJ,pali
+India,2022-23,2022,10,JDVVNL,RAJ,pali
+India,2022-23,2022,10,AVVNL,RAJ,ajmer
+India,2022-23,2022,9,HESCOM,KAR,
+India,2022-23,2022,9,NBPDCL,BIHAR,patna
+India,2022-23,2022,9,SBPDCL,BIHAR,patna
+India,2022-23,2022,9,LPDCL,UT OF LADAKH,
