@@ -1,0 +1,14 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,"",0,,"","",Country
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+MonthCode,MonthCode,Key Identifier,"",0,,"","",MonthCode
+Month,Month,Key Identifier,"",0,,"","",Month
+Name of distribution company,D8486_4,Key Identifier,"",0,,"","","Name of distribution company like  BSES (Bombay Suburban Electric Supply) Yamuna Power Limited (BYPL),Tata Power Delhi Distribution Limited (DDL),etc"
+Name of major city,D8486_5,Key Identifier,"",0,,"","","Name of major city like Delhi, Greater Noida, Pali, Navi Mumbai ,etc"
+Additional Info,D8486_11,String Variable,"",0,,"","",Additional Info
+Number of EV Charging Stations excluding Heavy Duty Vehicles charging stations (including EV charging points),I8486_6,Numeric Variable,Number,1,sum,Not Applicable,Not Applicable,Number of Electric Vehicle (EV) charging stations excluding heavy duty vehicles charging stations including Electric Vehicle (EV) charging points
+Number of PCS specific to Heavy Duty Vehicles (E-bus etc.),I8486_7,Numeric Variable,Number,1,sum,Not Applicable,Not Applicable,Number of Public Charging Station (PCS)  specific to heavy duty vehicles Electric(E) bus etc
+Electricity consumed in Electric Vehicle (EV) charging stations excluding heavy duty vehicles Public Charging Station (PCS),I8486_8,Numeric Variable,KWH (Kilowatt Per Hour),1,sum,Not Applicable,Not Applicable,Electricity consumed in Electric Vehicle (EV) charging stations excluding heavy duty vehicles Public Charging Station (PCS) in kilowatt hour (kWh)
+Electricity consumed in heavy duty Public Charging Station (PCS) only,I8486_9,Numeric Variable,KWH (Kilowatt Per Hour),1,sum,Not Applicable,Not Applicable,Electricity consumed in heavy duty Public Charging Station (PCS) only in Kilowatt hour (kWh)
+Total electricity consumed of Electric Vehicle (EV) charging stations,I8486_10,Numeric Variable,MU (Megaunit),1,sum,Not Applicable,Not Applicable,Total electricity consumed  of Electric Vehicle (EV) charging stations in Mega Unit (MU)
